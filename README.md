@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me 
 
-<!--
-**wispyiwnl/wispyiwnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Wispy. Passionate about Web3 security, I'm a Technical Ambassador at Mode and currently building my path as a security researcher. I actively participate in contests like Cantina, Code4rena and Sherlock, have completed CTFs, and competed in Secureum races. Right now, I'm focused on sharpening my skills through audits, technical contributions, and continuous learning.
 
-Here are some ideas to get you started:
+For security consulting or private audits, feel free to reach out:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Twitter: https://x.com/wispyiwnl
+- Telegram: https://t.me/wispyiwnl
+- Discord: wispyiwnl
+
+## Contests
+
+| Date| Project | Platform | Severity | Report | 
+| :---: | :---: | :---: | :---: | --- | 
+| May 2025 | [Upside](https://code4rena.com/audits/2025-05-upside) | Code4rena | Low | [Link](https://code4rena.com/audits/2025-05-upside/submissions/S-679) |
+
+
