@@ -1,17 +1,31 @@
-# About me 
+### Hi, I'm Wispy 👋
 
-Hi, I’m Wispy. Passionate about Web3 security, currently building my path as a security researcher.
+  Self-taught backend developer based in Colombia, building my career one project at a time.
 
-For security consulting or private audits, feel free to reach out:
+  ---
 
-- Twitter: https://x.com/wispyiwnl
-- Telegram: https://t.me/wispyiwnl
-- Discord: wispyiwnl
+  #### What I'm doing right now
 
-## Contests
+  - Studying **AWS** (cloud fundamentals, networking, IAM, services)
+  - Strengthening **SQL** (PostgreSQL focus)
+  - Starting with **Node.js + Express** to build my first real backend project
 
-| Date| Project | Platform | Severity | Report | 
-| :---: | :---: | :---: | :---: | --- | 
-| May 2025 | [Upside](https://code4rena.com/audits/2025-05-upside) | Code4rena | Low | [Link](https://code4rena.com/audits/2025-05-upside/submissions/S-679) |
+  #### Where I'm going
 
+  Hybrid profile: **backend engineering with cloud foundations**, with sights on **web3-native backend development** — smart contract integration, indexers,
+   on-chain infrastructure.
 
+  #### Stack I'm building
+
+  - **Background:** Solidity · DeFi concepts · Git
+  - **Currently learning:** AWS · SQL · PostgreSQL · Linux
+  - **Next:** JavaScript · Node.js · Express · TypeScript · Docker · CI/CD
+
+  ---
+
+  #### A note on transparency
+
+  No CS degree, no formal experience yet, no finished products on display today.
+  What I do have: years of learning on my own, the discipline to keep showing up,
+  and a portfolio that's growing in real time. The projects you'll see appear in
+  this account are that story being written, in public, in real time.
